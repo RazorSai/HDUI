@@ -1,38 +1,36 @@
 {
-  "data" : {
-    "type": "dashboard",
-    "index": 1,
-    "properties": {},
-    "children": [
-      {
-        "type": "card",
-        "index": 1,
-        "properties": {
-          "title": "Based on your purchase histry",
-          "txt": "Buy now to get best discount"
-        },
-        "action": {
-          "next": "product_details",
-          "button": "add_to_cart"
-        },
-        "children": [
-          {
-            "type": "mini_product",
-            "index": 1,
-            "properties": {
-              "url": "imagePath",
-              "id": "uuid",
-              "title": "Banana",
-              "stk": 239,
-              "mrp": 120,
-              "ptr": 700,
-              "dist": 34,
-              "si": 44881
-            },
-            "children": []
-          }
-        ]
-      }
-    ]
-  }
+  "type": "dashboard",
+  "index": 1,
+  "properties": {},
+  "children": [
+    {
+      "type": "card",
+      "index": 1,
+      "properties": {
+        "title": "Based on your purchase histry",
+        "txt": "Buy now to get best discount"
+      },
+      "action": {
+        "next": "product_details",
+        "button": "add_to_cart"
+      },
+      "children": [
+        {
+          "type": "mini_product",
+          "index": 1,
+          "properties": {
+            "url": "imagePath",
+            "id": "uuid",
+            "title": "Banana",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
 }
