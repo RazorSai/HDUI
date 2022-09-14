@@ -6,7 +6,7 @@
   "children": [
     {
       "type": "carousal",
-      "index": 0,
+      "index": 1,
       "properties": {
         "title": "Based on your purchase histry",
         "txt": "Buy now to get best discount"
@@ -72,7 +72,7 @@
     },
     {
       "type": "card",
-      "index": 1,
+      "index": 2,
       "properties": {
         "title": "Based on your purchase histry",
         "txt": "Buy now to get best discount"
