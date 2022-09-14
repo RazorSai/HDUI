@@ -2,6 +2,7 @@
   "type": "dashboard",
   "index": 1,
   "properties": {},
+  "action": {},
   "children": [
     {
       "type": "card",
@@ -17,7 +18,6 @@
           "group_id":"uuid",
           "group_type":"promotional_products"
         },
-        "button": "add_to_cart"
       },
       "children": [
         {
@@ -34,14 +34,13 @@
             "si": 44881
           },
           "action": {
-          "next": {
-            "page_name":"product_details",
-            "group_name":"Product Details",
-            "group_id":"uuid",
-            "group_type":"product_details"
+            "next": {
+              "page_name":"product_details",
+              "group_name":"Product Details",
+              "group_id":"uuid",
+              "group_type":"product_details"
+             },
           },
-          "button": "add_to_cart"
-        },
           "children": []
         }
       ]
