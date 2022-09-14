@@ -12,8 +12,8 @@
       },
       "action": {
         "next": {
-          "page_name":"product_details",
-          "group_name":"Product Details",
+          "page_name":"product_list",
+          "group_name":"Product List",
           "group_id":"uuid",
           "group_type":"promotional_products"
         },
@@ -33,6 +33,15 @@
             "dist": 34,
             "si": 44881
           },
+          "action": {
+          "next": {
+            "page_name":"product_details",
+            "group_name":"Product Details",
+            "group_id":"uuid",
+            "group_type":"product_details"
+          },
+          "button": "add_to_cart"
+        },
           "children": []
         }
       ]
