@@ -5,7 +5,7 @@
   "action": {},
   "children": [
     {
-      "type": "card",
+      "type": "carousal",
       "index": 1,
       "properties": {
         "title": "Based on your purchase histry",
@@ -21,17 +21,10 @@
       },
       "children": [
         {
-          "type": "mini_product",
+          "type": "banner",
           "index": 1,
           "properties": {
-            "url": "imagePath",
-            "id": "uuid",
-            "title": "Banana",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
+            "url": "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg"
           },
           "action": {
             "next": {
@@ -44,17 +37,10 @@
           "children": []
         },
         {
-          "type": "mini_product",
+          "type": "banner",
           "index": 2,
           "properties": {
-            "url": "imagePath",
-            "id": "uuid",
-            "title": "Apple",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
+            "url": "https://wallpaperaccess.com/full/2637581.jpg"
           },
           "action": {
             "next": {
@@ -67,40 +53,10 @@
           "children": []
         },
         {
-          "type": "mini_product",
-          "index": 3,
+          "type": "banner",
+          "index": 2,
           "properties": {
-            "url": "imagePath",
-            "id": "uuid",
-            "title": "Orange",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {
-            "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
-          },
-          "children": []
-        },
-        {
-          "type": "mini_product",
-          "index": 4,
-          "properties": {
-            "url": "imagePath",
-            "id": "uuid",
-            "title": "Grapes",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
+            "url": "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
           },
           "action": {
             "next": {
@@ -333,8 +289,118 @@
           "children": []
         }
       ]
-    }
-    ,{
+    },
+    {
+      "type": "card",
+      "index": 1,
+      "properties": {
+        "title": "Based on your purchase histry",
+        "txt": "Buy now to get best discount"
+      },
+      "action": {
+        "next": {
+          "page_name":"product_list",
+          "group_name":"Product List",
+          "group_id":"uuid",
+          "group_type":"promotional_products"
+        }
+      },
+      "children": [
+        {
+          "type": "mini_product",
+          "index": 1,
+          "properties": {
+            "url": "imagePath",
+            "id": "uuid",
+            "title": "Banana",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {
+            "next": {
+              "page_name":"product_details",
+              "group_name":"Product Details",
+              "group_id":"uuid",
+              "group_type":"product_details"
+             }
+          },
+          "children": []
+        },
+        {
+          "type": "mini_product",
+          "index": 2,
+          "properties": {
+            "url": "imagePath",
+            "id": "uuid",
+            "title": "Apple",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {
+            "next": {
+              "page_name":"product_details",
+              "group_name":"Product Details",
+              "group_id":"uuid",
+              "group_type":"product_details"
+             }
+          },
+          "children": []
+        },
+        {
+          "type": "mini_product",
+          "index": 3,
+          "properties": {
+            "url": "imagePath",
+            "id": "uuid",
+            "title": "Orange",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {
+            "next": {
+              "page_name":"product_details",
+              "group_name":"Product Details",
+              "group_id":"uuid",
+              "group_type":"product_details"
+             }
+          },
+          "children": []
+        },
+        {
+          "type": "mini_product",
+          "index": 4,
+          "properties": {
+            "url": "imagePath",
+            "id": "uuid",
+            "title": "Grapes",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {
+            "next": {
+              "page_name":"product_details",
+              "group_name":"Product Details",
+              "group_id":"uuid",
+              "group_type":"product_details"
+             }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
       "type": "card",
       "index": 1,
       "properties": {
