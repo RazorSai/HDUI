@@ -17,7 +17,7 @@
           "group_name":"Product List",
           "group_id":"uuid",
           "group_type":"promotional_products"
-        },
+        }
       },
       "children": [
         {
@@ -39,7 +39,7 @@
               "group_name":"Product Details",
               "group_id":"uuid",
               "group_type":"product_details"
-             },
+             }
           },
           "children": []
         }
