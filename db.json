@@ -8,8 +8,8 @@
       "type": "carousal",
       "index": 1,
       "properties": {
-        "title": "Based on your purchase histry",
-        "txt": "Buy now to get best discount"
+        "title": "Announcements",
+        "txt": "Announcements Lorem Ipsum is simply dummy text"
       },
       "action": {
         "next": {
