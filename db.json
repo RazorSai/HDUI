@@ -235,9 +235,9 @@
       "type": "carousal",
       "index": 1,
       "properties": {
-        "title": "Announcements",
-        "txt": "See all announcements",
-        "height": 100.0
+        "title": "Coupon Codes",
+        "txt": "Here are some coupon codes",
+        "height": 90.0
       },
       "action": {
         "next": {
