@@ -414,7 +414,7 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recently Bought Products",
-        "main_axis_extent": 140,
+        "main_axis_extent": 140.0,
         "txt": ""
       },
       "action": {},
