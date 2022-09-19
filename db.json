@@ -79,7 +79,7 @@
         "sc": "#2a60b8",
         "count": 3,
         "direction": "vertical",
-        "main_axis_extent" : 120.0
+        "main_axis_extent" : 140.0
       },
       "action": {},
       "children": [
