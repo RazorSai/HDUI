@@ -235,8 +235,8 @@
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
-        "bg": "#F2FBF8",
-        "pc": "#3DA68A",
+        "bg": "#F7FFED",
+        "pc": "#699F25",
         "sc": "#2a60b8",
         "count": 3,
         "direction": "vertical",
