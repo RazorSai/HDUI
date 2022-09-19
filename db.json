@@ -232,6 +232,73 @@
       ]
     },
     {
+      "type": "carousal",
+      "index": 1,
+      "properties": {
+        "title": "Announcements",
+        "txt": "See all announcements",
+        "height": 100.0
+      },
+      "action": {
+        "next": {
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
+        }
+      },
+      "children": [
+        {
+          "type": "coupon-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "coupon-d1",
+          "index": 2,
+          "properties": {
+            "url": "https://wallpaperaccess.com/full/2637581.jpg"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "coupon-d1",
+          "index": 2,
+          "properties": {
+            "url": "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
