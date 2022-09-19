@@ -77,9 +77,10 @@
         "bg": "#8195b5",
         "pc": "#2a60b8",
         "sc": "#2a60b8",
-        "count": 3,
+        "count": 1,
         "direction": "vertical",
-        "main_axis_extent" : 140.0
+        "title": "Shop by category",
+        "txt": "Sorted with the best range of products"
       },
       "action": {},
       "children": [
@@ -89,7 +90,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
             "id": "uuid",
-            "title": "Banana 2 kg with masala",
+            "title": "Antiseptics",
             "stk": 239,
             "mrp": 300,
             "ptr": 700,
@@ -105,7 +106,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
             "id": "uuid",
-            "title": "Dettol 40ml big bottel",
+            "title": "Baby Care",
             "stk": 239,
             "mrp": 120,
             "ptr": 700,
@@ -121,7 +122,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
             "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
+            "title": "Bath & Soap",
             "stk": 10,
             "mrp": 120,
             "ptr": 700,
@@ -137,7 +138,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
             "id": "uuid",
-            "title": "Banana 2 kg with masala",
+            "title": "Beverages",
             "stk": 239,
             "mrp": 300,
             "ptr": 700,
@@ -153,7 +154,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
             "id": "uuid",
-            "title": "Dettol 40ml big bottel",
+            "title": "Chocolate",
             "stk": 239,
             "mrp": 120,
             "ptr": 700,
@@ -169,7 +170,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
             "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
+            "title": "Deos & Fragrance",
             "stk": 10,
             "mrp": 120,
             "ptr": 700,
@@ -185,7 +186,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
             "id": "uuid",
-            "title": "Banana 2 kg with masala",
+            "title": "Hair Care",
             "stk": 239,
             "mrp": 300,
             "ptr": 700,
@@ -201,7 +202,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
             "id": "uuid",
-            "title": "Dettol 40ml big bottel",
+            "title": "Men's Grooming",
             "stk": 239,
             "mrp": 120,
             "ptr": 700,
@@ -217,247 +218,7 @@
           "properties": {
             "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
             "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
-            "stk": 10,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 22123
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-            "id": "uuid",
-            "title": "Banana 2 kg with masala",
-            "stk": 239,
-            "mrp": 300,
-            "ptr": 700,
-            "dist": 34,
-            "si": 49023
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-            "id": "uuid",
-            "title": "Dettol 40ml big bottel",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-            "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
-            "stk": 10,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 22123
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-            "id": "uuid",
-            "title": "Banana 2 kg with masala",
-            "stk": 239,
-            "mrp": 300,
-            "ptr": 700,
-            "dist": 34,
-            "si": 49023
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-            "id": "uuid",
-            "title": "Dettol 40ml big bottel",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-            "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
-            "stk": 10,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 22123
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-            "id": "uuid",
-            "title": "Banana 2 kg with masala",
-            "stk": 239,
-            "mrp": 300,
-            "ptr": 700,
-            "dist": 34,
-            "si": 49023
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-            "id": "uuid",
-            "title": "Dettol 40ml big bottel",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-            "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
-            "stk": 10,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 22123
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-            "id": "uuid",
-            "title": "Banana 2 kg with masala",
-            "stk": 239,
-            "mrp": 300,
-            "ptr": 700,
-            "dist": 34,
-            "si": 49023
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-            "id": "uuid",
-            "title": "Dettol 40ml big bottel",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-            "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
-            "stk": 10,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 22123
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-            "id": "uuid",
-            "title": "Banana 2 kg with masala",
-            "stk": 239,
-            "mrp": 300,
-            "ptr": 700,
-            "dist": 34,
-            "si": 49023
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-            "id": "uuid",
-            "title": "Dettol 40ml big bottel",
-            "stk": 239,
-            "mrp": 120,
-            "ptr": 700,
-            "dist": 34,
-            "si": 44881
-          },
-          "action": {},
-          "children": []
-        },
-        {
-          "type": "url-with-h-outside-d1",
-          "index": 1,
-          "properties": {
-            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-            "id": "uuid",
-            "title": "Maggi 10MRP 200GM",
+            "title": "Pet Food",
             "stk": 10,
             "mrp": 120,
             "ptr": 700,
