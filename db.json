@@ -80,7 +80,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by category",
-        "main_axis_extent": 140,
+        "main_axis_extent": 140.0,
         "txt": "Sorted with the best range of products"
       },
       "action": {},
@@ -241,7 +241,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by Brands",
-        "main_axis_extent": 160,
+        "main_axis_extent": 160.0,
         "txt": "Brands lorem ipsum lorem ipsum"
       },
       "action": {},
@@ -350,7 +350,7 @@
       "properties": {
         "title": "Coupon Codes",
         "txt": "Here are some coupon codes",
-        "height": 70
+        "height": 70.0
       },
       "action": {},
       "children": [
