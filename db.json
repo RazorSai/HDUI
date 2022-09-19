@@ -13,10 +13,10 @@
       },
       "action": {
         "next": {
-          "page_name":"product_list",
-          "group_name":"Product List",
-          "group_id":"uuid",
-          "group_type":"promotional_products"
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
         }
       },
       "children": [
@@ -28,11 +28,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -44,11 +44,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -60,12 +60,410 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "flat_image_grid",
+      "index": 1,
+      "properties": {
+        "bg": "#8195b5",
+        "pc": "#2a60b8",
+        "sc": "#2a60b8",
+        "count": 1,
+        "direction": "vertical"
+      },
+      "action": {},
+      "children": [
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Banana 2 kg with masala",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Dettol 40ml big bottel",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-outside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Maggi 10MRP 200GM",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
           "children": []
         }
       ]
@@ -79,10 +477,10 @@
       },
       "action": {
         "next": {
-          "page_name":"product_list",
-          "group_name":"Product List",
-          "group_id":"uuid",
-          "group_type":"promotional_products"
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
         }
       },
       "children": [
@@ -101,11 +499,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -124,11 +522,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -147,11 +545,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -170,11 +568,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         }
@@ -189,10 +587,10 @@
       },
       "action": {
         "next": {
-          "page_name":"product_list",
-          "group_name":"Product List",
-          "group_id":"uuid",
-          "group_type":"promotional_products"
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
         }
       },
       "children": [
@@ -211,11 +609,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -234,11 +632,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -257,11 +655,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -280,11 +678,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         }
@@ -299,10 +697,10 @@
       },
       "action": {
         "next": {
-          "page_name":"product_list",
-          "group_name":"Product List",
-          "group_id":"uuid",
-          "group_type":"promotional_products"
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
         }
       },
       "children": [
@@ -321,11 +719,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -344,11 +742,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -367,11 +765,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -390,11 +788,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         }
@@ -409,10 +807,10 @@
       },
       "action": {
         "next": {
-          "page_name":"product_list",
-          "group_name":"Product List",
-          "group_id":"uuid",
-          "group_type":"promotional_products"
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
         }
       },
       "children": [
@@ -431,11 +829,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -454,11 +852,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -477,11 +875,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
@@ -500,11 +898,11 @@
           },
           "action": {
             "next": {
-              "page_name":"product_details",
-              "group_name":"Product Details",
-              "group_id":"uuid",
-              "group_type":"product_details"
-             }
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
           },
           "children": []
         }
