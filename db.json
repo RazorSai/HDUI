@@ -80,7 +80,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by category",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": "Sorted with the best range of products"
       },
       "action": {},
@@ -237,11 +237,9 @@
       "properties": {
         "title": "Coupon Codes",
         "txt": "Here are some coupon codes",
-        "height": 70.0
+        "height": 70
       },
-      "action": {
-        
-      },
+      "action": {},
       "children": [
         {
           "type": "coupon-d1",
@@ -300,10 +298,123 @@
         "bg": "#F2FBF8",
         "pc": "#3DA68A",
         "sc": "#2a60b8",
+        "count": 3,
+        "direction": "vertical",
+        "title": "Shop by Brands",
+        "main_axis_extent": 160,
+        "txt": "Brands lorem ipsum lorem ipsum"
+      },
+      "action": {},
+      "children": [
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Emami",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Cadbury",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Dabur",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Johnson & Johnson",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Gillette",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d1",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Nivea",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "flat_image_grid",
+      "index": 1,
+      "properties": {
+        "bg": "#F2FBF8",
+        "pc": "#3DA68A",
+        "sc": "#2a60b8",
         "count": 1,
         "direction": "horizontal",
         "title": "Recently Bought Products",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": ""
       },
       "action": {},
