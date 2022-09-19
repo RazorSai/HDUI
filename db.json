@@ -9,7 +9,7 @@
       "index": 1,
       "properties": {
         "title": "Announcements",
-        "txt": "Announcements Lorem"
+        "txt": "See all announcements"
       },
       "action": {
         "next": {
