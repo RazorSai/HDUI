@@ -240,7 +240,7 @@
         "sc": "#2a60b8",
         "count": 1,
         "direction": "horizontal",
-        "title": "Recently bought Products",
+        "title": "Recently Bought Products",
         "main_axis_extent": 140.0
       },
       "action": {},
