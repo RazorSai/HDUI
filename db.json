@@ -639,7 +639,8 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recommended for you",
-        "main_axis_extent": 130.0,
+        "main_axis_extent": 120.0,
+        "height": 150.0,
         "txt": ""
       },
       "action": {},
