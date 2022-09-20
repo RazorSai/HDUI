@@ -525,8 +525,8 @@
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
-        "bg": "#F2FBF8",
-        "pc": "#3DA68A",
+        "bg": "#a4aff9",
+        "pc": "#FFFFFF",
         "sc": "#2a60b8",
         "bimg": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/Untitled-2%202.png?alt=media&token=45d56d19-741a-4765-bd0e-2b18966e52ac",
         "count": 1,
@@ -633,8 +633,8 @@
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
-        "bg": "#a4aff9",
-        "pc": "#FFFFFF",
+        "bg": "#F2FBF8",
+        "pc": "#3DA68A",
         "sc": "#2a60b8",
         "count": 1,
         "direction": "horizontal",
