@@ -80,7 +80,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by category",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": "Sorted with the best range of products"
       },
       "action": {},
@@ -241,7 +241,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by Brands",
-        "main_axis_extent": 160.0,
+        "main_axis_extent": 160,
         "txt": "Brands lorem ipsum lorem ipsum"
       },
       "action": {},
@@ -354,7 +354,7 @@
         "count": 2,
         "direction": "vertical",
         "title": "Trending Now",
-        "main_axis_extent": 170.0,
+        "main_axis_extent": 170,
         "txt": ""
       },
       "action": {},
@@ -371,7 +371,7 @@
             "ptr": 700,
             "dist": 34,
             "si": 49023,
-            "s" : 20.00
+            "s": 20
           },
           "action": {},
           "children": []
@@ -421,7 +421,7 @@
             "ptr": 700,
             "dist": 34,
             "si": 49023,
-            "s" : 10.19
+            "s": 10.19
           },
           "action": {},
           "children": []
@@ -438,7 +438,7 @@
             "ptr": 700,
             "dist": 34,
             "si": 44881,
-            "s" : 40.19
+            "s": 40.19
           },
           "action": {},
           "children": []
@@ -467,7 +467,7 @@
       "properties": {
         "title": "Coupon Codes",
         "txt": "Here are some coupon codes",
-        "height": 80.0
+        "height": 80
       },
       "action": {},
       "children": [
@@ -531,7 +531,7 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recently Bought Products",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": ""
       },
       "action": {},
@@ -628,7 +628,7 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recommended for you",
-        "main_axis_extent": 120.0,
+        "main_axis_extent": 130,
         "txt": ""
       },
       "action": {},
