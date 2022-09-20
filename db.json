@@ -627,7 +627,7 @@
         "sc": "#2a60b8",
         "count": 1,
         "direction": "horizontal",
-        "title": "Recently Bought Products",
+        "title": "Recommended for you",
         "main_axis_extent": 140.0,
         "txt": ""
       },
