@@ -540,7 +540,11 @@
           "type": "container",
           "properties": {
             
-          }
+          },
+          "action":{
+            
+          },
+          "children" : []
         },
         {
           "type": "product-d3",
