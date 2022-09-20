@@ -345,6 +345,119 @@
       ]
     },
     {
+      "type": "flat_image_grid",
+      "index": 1,
+      "properties": {
+        "bg": "#FFFFFF",
+        "pc": "#535461",
+        "sc": "#2a60b8",
+        "count": 2,
+        "direction": "vertical",
+        "title": "Trending Now",
+        "main_axis_extent": 170.0,
+        "txt": ""
+      },
+      "action": {},
+      "children": [
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Emami",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Cadbury",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Dabur",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Johnson & Johnson",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Gillette",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "url-with-h-inside-d2",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Nivea",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        }
+      ]
+    },
+    {
       "type": "carousal",
       "index": 1,
       "properties": {
