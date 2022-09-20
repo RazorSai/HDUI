@@ -531,7 +531,7 @@
         "bimg": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/Untitled-2%202.png?alt=media&token=45d56d19-741a-4765-bd0e-2b18966e52ac",
         "count": 1,
         "direction": "horizontal",
-        "title": "Recently Bought Products",
+        "title": "",
         "main_axis_extent": 140.0,
         "txt": ""
       },
