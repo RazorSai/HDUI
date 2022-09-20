@@ -354,7 +354,7 @@
         "count": 2,
         "direction": "vertical",
         "title": "Trending Now",
-        "main_axis_extent": 170.0,
+        "main_axis_extent": 200.0,
         "txt": ""
       },
       "action": {},
