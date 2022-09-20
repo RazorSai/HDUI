@@ -537,6 +537,12 @@
       "action": {},
       "children": [
         {
+          "type": "container",
+          "properties": {
+            
+          }
+        },
+        {
           "type": "product-d3",
           "index": 1,
           "properties": {
