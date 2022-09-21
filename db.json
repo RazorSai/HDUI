@@ -5,6 +5,22 @@
   "action": {},
   "children": [
     {
+          "type": "search_container",
+          "index": 1,
+          "properties": {
+            "hint": "Search for products..."
+          },
+          "action": {
+            "next": {
+              "page_name": "search_page",
+              "group_name": "Search",
+              "group_id": "uuid",
+              "group_type": "search_page"
+            }
+          },
+          "children": []
+    },
+    {
       "type": "carousal",
       "index": 1,
       "properties": {
