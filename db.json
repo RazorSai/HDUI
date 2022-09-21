@@ -80,7 +80,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by category",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": "Sorted with the best range of products"
       },
       "action": {},
@@ -241,7 +241,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by Brands",
-        "main_axis_extent": 160.0,
+        "main_axis_extent": 160,
         "txt": "Brands lorem ipsum lorem ipsum"
       },
       "action": {},
@@ -354,8 +354,8 @@
         "count": 2,
         "direction": "vertical",
         "title": "Trending Now",
-        "main_axis_extent": 170.0,
-        "main_axis_spacing": 10.0,
+        "main_axis_extent": 170,
+        "main_axis_spacing": 10,
         "txt": ""
       },
       "action": {},
@@ -474,7 +474,7 @@
       "properties": {
         "title": "Coupon Codes",
         "txt": "Here are some coupon codes",
-        "height": 86.0
+        "height": 86
       },
       "action": {},
       "children": [
@@ -539,20 +539,16 @@
         "count": 1,
         "direction": "horizontal",
         "title": "",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 140,
         "txt": ""
       },
       "action": {},
       "children": [
         {
           "type": "container",
-          "properties": {
-            
-          },
-          "action":{
-            
-          },
-          "children" : []
+          "properties": {},
+          "action": {},
+          "children": []
         },
         {
           "type": "product-d3",
@@ -646,8 +642,8 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recommended for you",
-        "main_axis_extent": 116.0,
-        "height": 158.0,
+        "main_axis_extent": 116,
+        "height": 158,
         "txt": ""
       },
       "action": {},
@@ -751,95 +747,83 @@
       },
       "children": [
         {
-          "type": "mini_product",
+          "type": "product-d4",
           "index": 1,
           "properties": {
-            "url": "imagePath",
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
             "id": "uuid",
-            "title": "Banana",
+            "title": "Antiseptics",
             "stk": 239,
-            "mrp": 120,
+            "mrp": 300,
             "ptr": 700,
             "dist": 34,
-            "si": 44881
+            "si": 49023
           },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
+          "action": {},
           "children": []
         },
         {
-          "type": "mini_product",
-          "index": 2,
+          "type": "product-d4",
+          "index": 1,
           "properties": {
-            "url": "imagePath",
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
             "id": "uuid",
-            "title": "Apple",
+            "title": "Baby Care",
             "stk": 239,
             "mrp": 120,
             "ptr": 700,
             "dist": 34,
             "si": 44881
           },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
+          "action": {},
           "children": []
         },
         {
-          "type": "mini_product",
-          "index": 3,
+          "type": "product-d4",
+          "index": 1,
           "properties": {
-            "url": "imagePath",
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
             "id": "uuid",
-            "title": "Orange",
-            "stk": 239,
+            "title": "Bath & Soap",
+            "stk": 10,
             "mrp": 120,
             "ptr": 700,
             "dist": 34,
-            "si": 44881
+            "si": 22123
           },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
+          "action": {},
           "children": []
         },
         {
-          "type": "mini_product",
-          "index": 4,
+          "type": "product-d4",
+          "index": 1,
           "properties": {
-            "url": "imagePath",
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
             "id": "uuid",
-            "title": "Grapes",
+            "title": "Beverages",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Chocolate",
             "stk": 239,
             "mrp": 120,
             "ptr": 700,
             "dist": 34,
             "si": 44881
           },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
+          "action": {},
           "children": []
         }
       ]
