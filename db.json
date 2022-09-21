@@ -80,7 +80,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by category",
-        "main_axis_extent": 140,
+        "main_axis_extent": 140.0,
         "txt": "Sorted with the best range of products"
       },
       "action": {},
@@ -241,7 +241,7 @@
         "count": 3,
         "direction": "vertical",
         "title": "Shop by Brands",
-        "main_axis_extent": 160,
+        "main_axis_extent": 160.0,
         "txt": "Brands lorem ipsum lorem ipsum"
       },
       "action": {},
@@ -354,8 +354,8 @@
         "count": 2,
         "direction": "vertical",
         "title": "Trending Now",
-        "main_axis_extent": 170,
-        "main_axis_spacing": 10,
+        "main_axis_extent": 170.0,
+        "main_axis_spacing": 10.0,
         "txt": ""
       },
       "action": {},
@@ -474,7 +474,7 @@
       "properties": {
         "title": "Coupon Codes",
         "txt": "Here are some coupon codes",
-        "height": 86
+        "height": 86.0
       },
       "action": {},
       "children": [
@@ -539,7 +539,7 @@
         "count": 1,
         "direction": "horizontal",
         "title": "",
-        "main_axis_extent": 140,
+        "main_axis_extent": 140.0,
         "txt": ""
       },
       "action": {},
@@ -642,8 +642,8 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Recommended for you",
-        "main_axis_extent": 116,
-        "height": 158,
+        "main_axis_extent": 116.0,
+        "height": 158.0,
         "txt": ""
       },
       "action": {},
