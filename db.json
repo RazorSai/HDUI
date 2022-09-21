@@ -355,6 +355,7 @@
         "direction": "vertical",
         "title": "Trending Now",
         "main_axis_extent": 170.0,
+        "main_axis_spacing": 10.0,
         "txt": ""
       },
       "action": {},
