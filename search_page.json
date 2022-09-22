@@ -31,7 +31,9 @@
                   "dist": 34,
                   "si": 49023
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               },
               {
@@ -47,7 +49,9 @@
                   "dist": 34,
                   "si": 44881
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               },
               {
@@ -63,7 +67,9 @@
                   "dist": 34,
                   "si": 22123
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               },
               {
@@ -79,7 +85,9 @@
                   "dist": 34,
                   "si": 49023
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               },
               {
@@ -95,7 +103,9 @@
                   "dist": 34,
                   "si": 44881
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               },
               {
@@ -111,7 +121,9 @@
                   "dist": 34,
                   "si": 44881
                 },
-                "action": {},
+                "action": {
+                  "click": "fill-text"
+                },
                 "children": []
               }
             ]
