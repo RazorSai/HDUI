@@ -5,17 +5,8 @@
     "action":{},
     "children":[
         {
-            "type":"image-full-width",
-            "index":1,
-            "properties":{
-                "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/26c2a8394048-16626473481.jpeg"
-            },
-            "action":{},
-            "children":[]
-        },
-        {
             "type":"flat_image_grid",
-            "index":1,
+            "index":2,
             "properties":{
                 "bg":"#8195b5",
                 "pc":"#2a60b8",
