@@ -11,7 +11,7 @@
                 "bg":"#8195b5",
                 "pc":"#2a60b8",
                 "sc":"#2a60b8",
-                "count":1,
+                "count":2,
                 "direction":"vertical"
             },
             "action":{},
@@ -380,22 +380,6 @@
                         "ptr": 700,
                         "dist": 34,
                         "si": 44881
-                    },
-                    "action":{},
-                    "children":[]
-                },
-                {
-                    "type":"image-with-full-details-inside-d2",
-                    "index":1,
-                    "properties":{
-                        "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-                        "id": "uuid",
-                        "title": "Maggi 10MRP 200GM",
-                        "stk": 10,
-                        "mrp": 120,
-                        "ptr": 700,
-                        "dist": 34,
-                        "si": 22123
                     },
                     "action":{},
                     "children":[]
