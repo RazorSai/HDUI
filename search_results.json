@@ -8,7 +8,7 @@
             "type":"flat_image_grid",
             "index":1,
             "properties":{
-                "bg":"#8195b5",
+                "bg":"#FFFFFF",
                 "pc":"#2a60b8",
                 "sc":"#2a60b8",
                 "count":1,
