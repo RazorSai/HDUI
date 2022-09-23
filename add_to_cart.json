@@ -1,7 +1,9 @@
 {
   "type": "dashboard",
   "index": 1,
-  "properties": {},
+  "properties": {
+    "title" : "Add To Cart"
+  },
   "action": {},
   "children":[
                 {
