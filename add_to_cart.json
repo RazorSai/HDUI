@@ -1,218 +1,59 @@
 {
-  "type": "container",
+  "type": "dashboard",
   "index": 1,
   "properties": {},
   "action": {},
-  "children": [
-    {
-            "type": "chips-full-width",
-            "index": 1,
-            "properties": {
-              "bg": "#F2FBF8",
-              "pc": "#3DA68A",
-              "sc": "#2a60b8",
-              "count": 1,
-              "direction": "horizontal",
-              "title": "Based on your recent searches",
-              "txt": ""
-            },
-            "action": {},
-            "children": [
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-                  "id": "uuid",
-                  "title": "Antiseptics",
-                  "stk": 239,
-                  "mrp": 300,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 49023
+  "children":[
+                {
+                    "type":"image-with-full-details-inside-d2",
+                    "index":1,
+                    "properties":{
+                        "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+                        "id": "uuid",
+                        "title": "Banana 2 kg with masala",
+                        "stk": 239,
+                        "mrp": 300,
+                        "ptr": 700,
+                        "dist": 34,
+                        "si": 49023,
+                        "quantity_added": 4
+                    },
+                    "action":{},
+                    "children":[]
                 },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-                  "id": "uuid",
-                  "title": "Baby Care",
-                  "stk": 239,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 44881
+                {
+                    "type":"image-with-full-details-inside-d2",
+                    "index":1,
+                    "properties":{
+                        "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+                        "id": "uuid",
+                        "title": "Dettol 40ml big bottel",
+                        "stk": 239,
+                        "mrp": 120,
+                        "ptr": 700,
+                        "dist": 34,
+                        "si": 44881,
+                        "quantity_added": 3
+                    },
+                    "action":{},
+                    "children":[]
                 },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-                  "id": "uuid",
-                  "title": "Bath & Soap",
-                  "stk": 10,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 22123
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-                  "id": "uuid",
-                  "title": "Beverages",
-                  "stk": 239,
-                  "mrp": 300,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 49023
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-                  "id": "uuid",
-                  "title": "Chocolate",
-                  "stk": 239,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 44881
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "action-chip",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-                  "id": "uuid",
-                  "title": "Groceries",
-                  "stk": 239,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 44881
-                },
-                "action": {},
-                "children": []
-              }
+                {
+                    "type":"image-with-full-details-inside-d2",
+                    "index":1,
+                    "properties":{
+                        "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+                        "id": "uuid",
+                        "title": "Maggi 10MRP 200GM",
+                        "stk": 10,
+                        "mrp": 120,
+                        "ptr": 700,
+                        "dist": 34,
+                        "si": 22123,
+                        "quantity_added": 2
+                    },
+                    "action":{},
+                    "children":[]
+                }
             ]
-          },
-    {
-            "type": "flat_image_grid",
-            "index": 1,
-            "properties": {
-              "bg": "#F2FBF8",
-              "pc": "#3DA68A",
-              "sc": "#2a60b8",
-              "count": 1,
-              "direction": "horizontal",
-              "title": "Few Suggestions for you",
-              "main_axis_extent": 116.0,
-              "height": 158.0,
-              "txt": ""
-            },
-            "action": {},
-            "children": [
-              {
-                "type": "product-d4",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-                  "id": "uuid",
-                  "title": "Antiseptics",
-                  "stk": 239,
-                  "mrp": 300,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 49023
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "product-d4",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-                  "id": "uuid",
-                  "title": "Baby Care",
-                  "stk": 239,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 44881
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "product-d4",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
-                  "id": "uuid",
-                  "title": "Bath & Soap",
-                  "stk": 10,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 22123
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "product-d4",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
-                  "id": "uuid",
-                  "title": "Beverages",
-                  "stk": 239,
-                  "mrp": 300,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 49023
-                },
-                "action": {},
-                "children": []
-              },
-              {
-                "type": "product-d4",
-                "index": 1,
-                "properties": {
-                  "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
-                  "id": "uuid",
-                  "title": "Chocolate",
-                  "stk": 239,
-                  "mrp": 120,
-                  "ptr": 700,
-                  "dist": 34,
-                  "si": 44881
-                },
-                "action": {},
-                "children": []
-              }
-            ]
-          }
-  ]
 }
