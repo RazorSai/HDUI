@@ -580,10 +580,12 @@
             "si": 49023
           },
           "action": {
-            "page_name": "generic_page",
-            "group_name": "Product Details",
-            "group_id": "https://raw.githubusercontent.com/RazorSai/HDUI/master/product_details.json",
-            "group_type": "product_details"
+            "next" : {
+              "page_name": "generic_page",
+              "group_name": "Product Details",
+              "group_id": "https://raw.githubusercontent.com/RazorSai/HDUI/master/product_details.json",
+              "group_type": "product_details"
+            }
           },
           "children": []
         },
