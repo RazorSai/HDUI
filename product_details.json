@@ -1,1 +1,73 @@
-
+{
+  "type": "dashboard",
+  "index": 1,
+  "properties": {},
+  "action": {},
+  "children": [
+    {
+      "type": "carousal",
+      "index": 1,
+      "properties": {
+        
+      },
+      "action": {
+        "next": {
+          "page_name": "product_list",
+          "group_name": "Product List",
+          "group_id": "uuid",
+          "group_type": "promotional_products"
+        }
+      },
+      "children": [
+        {
+          "type": "banner",
+          "index": 1,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo_and_fragrance.png?alt=media&token=e6df8fc1-653d-4335-bbc2-bcf295826751"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "banner",
+          "index": 2,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo_and_fragrance.png?alt=media&token=e6df8fc1-653d-4335-bbc2-bcf295826751"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "banner",
+          "index": 2,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo_and_fragrance.png?alt=media&token=e6df8fc1-653d-4335-bbc2-bcf295826751"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}
