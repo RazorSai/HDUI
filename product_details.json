@@ -119,8 +119,8 @@
         "count": 1,
         "direction": "horizontal",
         "title": "Few Suggestions for you",
-        "main_axis_extent": 116,
-        "height": 158,
+        "main_axis_extent": 116.0,
+        "height": 158.0,
         "txt": ""
       },
       "action": {},
