@@ -81,13 +81,13 @@
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
-        "bg": "#FF2624",
+        "bg": "#FFFFFF",
         "pc": "#000000",
         "sc": "#2a60b8",
         "count": 1,
         "direction": "vertical",
         "title": "Distributor Details",
-        "main_axis_extent": 140.0,
+        "main_axis_extent": 120.0,
         "txt": ""
       },
       "action": {},
