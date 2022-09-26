@@ -81,7 +81,7 @@
       "type": "flat_image_grid",
       "index": 1,
       "properties": {
-        "bg": "#FFFFFF",
+        "bg": "#FF2624",
         "pc": "#000000",
         "sc": "#2a60b8",
         "count": 1,
