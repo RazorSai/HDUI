@@ -108,6 +108,104 @@
           "children": []
         }
       ]
+    },
+    {
+      "type": "flat_image_grid",
+      "index": 1,
+      "properties": {
+        "bg": "#F2FBF8",
+        "pc": "#3DA68A",
+        "sc": "#2a60b8",
+        "count": 1,
+        "direction": "horizontal",
+        "title": "Few Suggestions for you",
+        "main_axis_extent": 116,
+        "height": 158,
+        "txt": ""
+      },
+      "action": {},
+      "children": [
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Antiseptics",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Baby Care",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/87733bbd9063-16625280861.jpeg",
+            "id": "uuid",
+            "title": "Bath & Soap",
+            "stk": 10,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 22123
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/0a02e4c41be8-16623683001.jpeg",
+            "id": "uuid",
+            "title": "Beverages",
+            "stk": 239,
+            "mrp": 300,
+            "ptr": 700,
+            "dist": 34,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        },
+        {
+          "type": "product-d4",
+          "index": 1,
+          "properties": {
+            "url": "https://biddano-file-uploads.s3.ap-south-1.amazonaws.com/product_images/d089a3ed2dd7-16623636701.jpeg",
+            "id": "uuid",
+            "title": "Chocolate",
+            "stk": 239,
+            "mrp": 120,
+            "ptr": 700,
+            "dist": 34,
+            "si": 44881
+          },
+          "action": {},
+          "children": []
+        }
+      ]
     }
   ]
 }
