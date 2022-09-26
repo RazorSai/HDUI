@@ -63,6 +63,99 @@
           "children": []
         }
       ]
+    },
+    {
+      "type": "title-with-text",
+      "index": 1,
+      "properties": {
+        "title":"Yardley Gentleman Classic Deo",
+        "text" : "Yardley"
+      },
+      "action": {
+        
+      },
+      "children": [
+        {
+          "type": "banner",
+          "index": 1,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "banner",
+          "index": 2,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        },
+        {
+          "type": "banner",
+          "index": 2,
+          "properties": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "flat_image_grid",
+      "index": 1,
+      "properties": {
+        "bg": "#FFFFFF",
+        "pc": "#000000",
+        "sc": "#2a60b8",
+        "count": 1,
+        "direction": "vertical",
+        "title": "Distributor Details",
+        "main_axis_extent": 140.0,
+        "txt": ""
+      },
+      "action": {},
+      "children": [
+        {
+          "type": "wholesaler-interface-1",
+          "index": 1,
+          "properties": {
+            "id": "uuid",
+            "title": "Biddano Wholesale LLP",
+            "stk": 90,
+            "mrp": 209,
+            "ptr": 149,
+            "dist": 36.51,
+            "si": 49023
+          },
+          "action": {},
+          "children": []
+        }
+      ]
     }
   ]
 }
