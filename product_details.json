@@ -75,54 +75,6 @@
         
       },
       "children": [
-        {
-          "type": "banner",
-          "index": 1,
-          "properties": {
-            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
-          },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
-          "children": []
-        },
-        {
-          "type": "banner",
-          "index": 2,
-          "properties": {
-            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
-          },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
-          "children": []
-        },
-        {
-          "type": "banner",
-          "index": 2,
-          "properties": {
-            "url": "https://firebasestorage.googleapis.com/v0/b/uber-app-a3cf5.appspot.com/o/deo.png?alt=media&token=1655d59a-7591-4bf6-9e5e-dd18d5b730be"
-          },
-          "action": {
-            "next": {
-              "page_name": "product_details",
-              "group_name": "Product Details",
-              "group_id": "uuid",
-              "group_type": "product_details"
-            }
-          },
-          "children": []
-        }
       ]
     },
     {
