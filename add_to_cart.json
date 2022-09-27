@@ -6,6 +6,20 @@
   },
   "action": {},
   "children":[
+    {
+      "type": "title-with-text",
+      "index": 1,
+      "properties": {
+        "title":"Apply Coupons",
+        "text" : "Use coupon codes for offers",
+        "font_size":13.0
+      },
+      "action": {
+        
+      },
+      "children": [
+      ]
+    },
                 {
                     "type":"image-with-full-details-inside-d2",
                     "index":1,
