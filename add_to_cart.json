@@ -1,12 +1,4 @@
 {
-  "type": "card",
-  "index": 1,
-  "properties": {
-    "title" : "Add To Cart"
-  },
-  "action": {},
-  "children":[
-                {
   "type": "dashboard",
   "index": 1,
   "properties": {
@@ -65,7 +57,5 @@
                     "action":{},
                     "children":[]
                 }
-            ]
-}
             ]
 }
