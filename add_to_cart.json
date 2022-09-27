@@ -15,7 +15,13 @@
         "font_size":13.0
       },
       "action": {
-        
+        "next" : {
+          "page_name" : "generic_page",
+          "group_name" : "Apply Coupons",
+          "grou_id" : "uuid",
+          "group_type": "generic_page",
+          "url" : "https://raw.githubusercontent.com/RazorSai/HDUI/master/db.json"
+        }
       },
       "children": [
       ]
