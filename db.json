@@ -54,7 +54,7 @@
                 },
                 "child" : {
                   "type" : "text-regular",
-                  "text" : "Announcements"
+                  "text" : "See all announcements"
                 }
               }
             ]
