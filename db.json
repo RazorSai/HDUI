@@ -42,7 +42,8 @@
                 },
                 "child" : {
                   "type" : "text-semi-bold",
-                  "text" : "Announcements"
+                  "text" : "Announcements",
+                  "font_size" : 18.0
                 }
               },
               {
