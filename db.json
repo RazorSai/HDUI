@@ -9,9 +9,7 @@
   },
   "action": {},
   "child" : {
-    "type" : "column",
-    "mainAxis" : "start",
-    "crossAxis" : "start",
+    "type" : "listview",
     "children": [
     {
           "type": "search_container",
