@@ -27,7 +27,7 @@
           },
           "children": []
     },
-      {
+    {
         "type" : "row",
         "children" : [
           {
@@ -42,8 +42,7 @@
                 },
                 "child" : {
                   "type" : "text-semi-bold",
-                  "text" : "Announcements",
-                  "font_size" : 18.0
+                  "text" : "Announcements"
                 }
               },
               {
@@ -109,8 +108,63 @@
             }
           },
           "children": []
+        },
+        {
+          "type": "banner",
+          "index": 2,
+          "properties": {
+            "url": "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
+          },
+          "action": {
+            "next": {
+              "page_name": "product_details",
+              "group_name": "Product Details",
+              "group_id": "uuid",
+              "group_type": "product_details"
+            }
+          },
+          "children": []
         }
       ]
+    },
+    {
+      "type" : "container",
+      "color" : "#8195b5",
+      "bg_image" : false,
+      "full_width" : true,
+      "child" : {
+        "type" : "stack",
+        "children" : [
+          {
+            "type" : "column",
+            "crossAxis" : "start",
+            "children" : [
+              {
+                "type" : "padding",
+                "padding" : {
+                  "left" : 20.0,
+                  "top" : 20.0
+                },
+                "child" : {
+                  "type" : "text-semi-bold",
+                  "text" : "Shop by category"
+                }
+              },
+              {
+                "type" : "padding",
+                "padding" : {
+                  "left" : 20.0,
+                  "top" : 4.0
+                },
+                "child" : {
+                  "type" : "text-regular",
+                  "text" : "Sorted with the best range of products"
+                }
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "type": "flat_image_grid",
