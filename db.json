@@ -27,6 +27,40 @@
           },
           "children": []
     },
+      {
+        "type" : "row",
+        "children" : [
+          {
+            "type" : "column",
+            "crossAxis" : "start",
+            "children" : [
+              {
+                "type" : "padding",
+                "padding" : {
+                  "left" : 20.0,
+                  "top" : 20.0
+                },
+                "child" : {
+                  "type" : "text-semi-bold",
+                  "text" : "Announcements"
+                }
+              },
+              {
+                "type" : "padding",
+                "padding" : {
+                  "left" : 20.0,
+                  "top" : 4.0,
+                  "bottom" : 12.0
+                },
+                "child" : {
+                  "type" : "text-regular",
+                  "text" : "Announcements"
+                }
+              }
+            ]
+          }
+        ]
+      },
     {
       "type": "carousal",
       "index": 1,
