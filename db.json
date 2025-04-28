@@ -9,6 +9,9 @@
   },
   "action": {},
   "child" : {
+    "type" : "column",
+    "mainAxis" : "start",
+    "crossAxis" : "start",
     "children": [
     {
           "type": "search_container",
