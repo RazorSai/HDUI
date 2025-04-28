@@ -42,8 +42,7 @@
                 },
                 "child" : {
                   "type" : "text-semi-bold",
-                  "text" : "Announcements",
-                  "font_size" : 18.0
+                  "text" : "Announcements"
                 }
               },
               {
@@ -129,7 +128,7 @@
       ]
     },
     {
-      "type" : "container",
+      "type" : "container_plain",
       "color" : "#8195b5",
       "bg_image" : false,
       "full_width" : true,
@@ -148,9 +147,7 @@
                 },
                 "child" : {
                   "type" : "text-semi-bold",
-                  "text" : "Shop by category",
-                  "font_color" : "#FFFFFF",
-                  "font_size" : 18.0
+                  "text" : "Shop by category"
                 }
               },
               {
@@ -161,8 +158,7 @@
                 },
                 "child" : {
                   "type" : "text-regular",
-                  "text" : "Sorted with the best range of products",
-                  "font_color" : "#FFFFFF"
+                  "text" : "Sorted with the best range of products"
                 }
               }
             ]
