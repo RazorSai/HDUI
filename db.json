@@ -1,9 +1,15 @@
 {
-  "type": "dashboard",
+  "type": "scaffold",
   "index": 1,
-  "properties": {},
+  "app_bar" : {
+    "title" : "Home"
+  },
+  "properties": {
+    "background_color" : "white"
+  },
   "action": {},
-  "children": [
+  "child" : {
+    "children": [
     {
           "type": "search_container",
           "index": 1,
@@ -1182,4 +1188,5 @@
       ]
     }
   ]
+  }
 }
