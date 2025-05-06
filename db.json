@@ -43,7 +43,7 @@
                 "child" : {
                   "type" : "text-semi-bold",
                   "text" : "Announcements",
-                  "font_family" : "Lexend",
+                  "font_family" : "Outfit",
                   "font_size" : 18.0
                 }
               },
@@ -56,7 +56,8 @@
                 },
                 "child" : {
                   "type" : "text-regular",
-                  "text" : "See all announcements"
+                  "text" : "See all announcements",
+                  "font_family" : "Outfit",
                 }
               }
             ]
@@ -151,6 +152,7 @@
                   "type" : "text-semi-bold",
                   "text" : "Shop by category",
                   "font_color" : "#FFFFFF",
+                  "font_family" : "Outfit",
                   "font_size" : 18.0
                 }
               },
@@ -163,6 +165,7 @@
                 "child" : {
                   "type" : "text-regular",
                   "text" : "Sorted with the best range of products",
+                  "font_family" : "Outfit",
                   "font_color" : "#FFFFFF"
                 }
               }
