@@ -43,6 +43,7 @@
                 "child" : {
                   "type" : "text-semi-bold",
                   "text" : "Announcements",
+                  "font_family" : "Lexend",
                   "font_size" : 18.0
                 }
               },
