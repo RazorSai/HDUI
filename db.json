@@ -57,7 +57,7 @@
                 "child" : {
                   "type" : "text-regular",
                   "text" : "See all announcements",
-                  "font_family" : "Outfit",
+                  "font_family" : "Outfit"
                 }
               }
             ]
